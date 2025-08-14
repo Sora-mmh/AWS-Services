@@ -1,0 +1,3 @@
+[submodule "aws-projs"]
+	path = aws-projs
+	url = https://github.com/Sora-mmh/aws-with-jenkins.git
